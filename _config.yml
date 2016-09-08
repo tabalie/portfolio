@@ -1,33 +1,33 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "http://www.natal.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Natalie Kueneman # Your name will go here
+  description: "Full Stack Web Development" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Full Stack Web Development</h1>
+     <p>I'm a kickass developer specializing in Ruby, Rails, JavaScript, and AngularJS.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: info@natal.io
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: tabalie
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/nataliekueneman
   pinterest:
   reddit:
   soundcloud:
